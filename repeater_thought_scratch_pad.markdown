@@ -2,7 +2,8 @@
 
 ## Thing 1: Procedural stuffs
 
-MVA - took me forever to figure out where to navigate to find anything and then keep it straight
+MVA - took me forever to figure out where to navigate to find anything and then keep it straight:
+
     1. where to find homework - http://backend.turing.io/module1/homework_assignments
     2. daily "what are we doing today/this week" - http://backend.turing.io/today/
     3. google cal for integration with your google cal - https://calendar.google.com/calendar/embed?src=casimircreative.com_59k8msrrc2ddhcv787vubvp0s4@group.calendar.google.com&ctz=America/Denver
